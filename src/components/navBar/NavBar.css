@@ -3,7 +3,7 @@
     top: 0;
     background-color: transparent;
     width: 100%;
-    padding-left: 50px;
+    padding-left: 40px;
     font-size: 20px;
     z-index: 1;
 }
@@ -13,7 +13,7 @@
     transition: all 0.5s ease;
 }
 
-.navbar-logo {
+.navbar-container {
     height: 80px;
     line-height: 80px;
     color: white;
