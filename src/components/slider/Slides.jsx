@@ -22,7 +22,7 @@ const slidesInfo = [
         tecnologies: 'Reactjs, Material Ui, javaScript, themovieDB',
         title: 'Movie Hub',
         description: '',
-        urlView: 'http://moviehub.herokuapp.com',
+        urlView: 'http://themovie-hub.herokuapp.com',
         urlCode: 'https://github.com/leanwayne/Movie-Hub',
     },
     {
