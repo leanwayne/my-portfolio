@@ -2,6 +2,8 @@ import React from 'react'
 import './Slider.css'
 import Imageproject1 from '../../media/beatHouseLogo.jpg'
 import Imageproject2 from '../../media/dev.jpg'
+import Imageproject3 from '../../media/moviehub.jpg'
+
 const slidesInfo = [
     {
         src:Imageproject1,
@@ -14,14 +16,14 @@ const slidesInfo = [
         urlCode: 'https://github.com/leanwayne/Beathouse-Ecommerce',
     },
     {
-        src: 'https://www.freedieting.com/wp/wp-content/uploads/2018/01/Daily-Calories.jpg',
-        alt: 'Calories calculator',
-        desc: 'coming soon',
-        tecnologies: 'Reactjs, NodeJs, javaScript',
-        title: 'Calories calculator',
+        src: Imageproject3,
+        alt: 'Movie Hub',
+        desc: 'Look for information about  movies and series, you can also watch the trailer.',
+        tecnologies: 'Reactjs, Material Ui, javaScript, themovieDB',
+        title: 'Movie Hub',
         description: '',
-        urlView: '',
-        urlCode: '',
+        urlView: 'http://moviehub.herokuapp.com',
+        urlCode: 'https://github.com/leanwayne/Movie-Hub',
     },
     {
         src: Imageproject2,

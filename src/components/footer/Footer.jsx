@@ -16,7 +16,7 @@ const Footer = () => {
             <div className='footer-sns'>
                 <div className='design-by'>Design By Lopez Leandro 2021</div>
                 <div className='sns-links'>
-                    <a href='https://www.linkedin.com/in/leandro-lopez-catalini-9628b21a2/' target='_blank' rel='noreferrer'>
+                    <a href='https://www.linkedin.com/in/leandro-l%C3%B3pez-catalini-9628b21a2/' target='_blank' rel='noreferrer'>
                         <i className='fab fa-linkedin linkedin'></i>
                     </a>
                     <a href='https://github.com/leanwayne' target='_blank' rel='noreferrer'>
